@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**mati9012/mati9012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi, I'm `_mati90_` 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
