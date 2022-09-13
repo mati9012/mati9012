@@ -8,4 +8,4 @@ Moderator:
  - [mclik.pl](https://discord.gg/WTBxZfhcey)
 
 Filmmaker:
- - Dreamcode
+ - [DreamCode.cc](https://discord.gg/j3ACt4C7ep)
