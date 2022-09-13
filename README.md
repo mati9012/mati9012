@@ -6,6 +6,7 @@ I'm 15 years old.
 
 Moderator:
  - mclik.pl
+[1]:https://discord.gg/WTBxZfhcey mclik
 
 Filmmaker:
  - Dreamcode
