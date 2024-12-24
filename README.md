@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm `_mati90_`<br>👤I'm a young developer<br>✏️I'm currently working on a project for school
+👋 I'm `_mati90_`<br>👤I'm a young developer (Student)<br>✏️I'm currently working on a Banking app system
 
 
 ## 🌐 Socials:
